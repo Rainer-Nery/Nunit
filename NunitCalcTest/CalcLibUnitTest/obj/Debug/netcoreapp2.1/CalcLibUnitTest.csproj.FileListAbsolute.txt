@@ -1,0 +1,33 @@
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.deps.json
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.runtimeconfig.json
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.runtimeconfig.dev.json
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.pdb
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.csprojAssemblyReference.cache
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.AssemblyInfoInputs.cache
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.AssemblyInfo.cs
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.csproj.CopyComplete
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.deps.json
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.runtimeconfig.json
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.runtimeconfig.dev.json
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLibUnitTest.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\bin\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.csprojAssemblyReference.cache
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.AssemblyInfoInputs.cache
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.AssemblyInfo.cs
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.csproj.CopyComplete
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLibUnitTest\obj\Debug\netcoreapp2.1\CalcLibUnitTest.pdb

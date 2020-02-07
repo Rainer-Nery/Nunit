@@ -1,0 +1,16 @@
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.deps.json
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.AssemblyInfoInputs.cache
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.AssemblyInfo.cs
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Manpreet\GitHub\NUnitExample\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.deps.json
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\bin\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.csprojAssemblyReference.cache
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.AssemblyInfoInputs.cache
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.AssemblyInfo.cs
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Rainer Nery\Desktop\NUnitExample-master\NunitCalcTest\CalcLib\obj\Debug\netcoreapp2.1\CalcLib.pdb
